@@ -1,0 +1,9 @@
+Following table provides detailed matrix of components
+ (ACS, Application Server, Database , Map , Operating  
+ Hardware Infrastructure and Device Types) that are  
+ in DMS deployment architecture and DMS Releases. 
+ Even though the DMS Software can be deployed in any 
+  components, the below table describes the engineering 
+ for a given release.Click on  link in each of the variant 
+
+ 

@@ -1,0 +1,45 @@
+.navb{
+   
+    width: 100%;
+    height: 7vh;
+    border-bottom: 1px solid #000;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between;
+}
+
+.right-nav{
+    display: flex;
+    align-items: center;
+    padding: 0.5em;
+    color: #000;
+}
+
+.image-left{
+    width:55px;
+    height :35px;
+}
+
+.left-nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0.5em;
+}
+
+.wave{
+    animation-name: wave-animation;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
+    font-size: large;
+    padding-right: 0.5em;
+}
+.left-head{
+    font-family: "Lato",Arial,sans-serif;
+    /* font-size: larger; */
+    padding-right: 0.5em;
+}
