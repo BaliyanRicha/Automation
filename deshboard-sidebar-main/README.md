@@ -4,7 +4,7 @@ This project was bootstrapped [Create React App](https://github.com/facebook/cre
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can :
 
 ### `npm start`
 
